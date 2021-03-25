@@ -9,3 +9,7 @@ Patients' demographic information, Elixhauser index (or other variables of inter
 
 ## Related article
 This section will be updated after the acceptance of the manuscript. 
+
+## Reference
+- GitHub Repository: https://github.com/Jayaos/rnn-covid
+- tf.keras module: https://www.tensorflow.org/api_docs/python/tf/keras/
